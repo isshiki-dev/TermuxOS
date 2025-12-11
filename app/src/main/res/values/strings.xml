@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TermuxOS</string>
+    <string name="welcome_message">Welcome to TermuxOS</string>
+    <string name="init_linux">Initializing Linux Userland...</string>
+    <string name="launch_shell">Launch Shell</string>
+</resources>
